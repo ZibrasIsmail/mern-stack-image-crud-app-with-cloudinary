@@ -4,6 +4,7 @@ This project is about performing CRUD (create, read, update, delete) operations 
 
 ### run this app
 
-- Clone this repo and run **npm install**
-- goto **client** directory and run **npm install** as well
-- Create **.env** file at root level and add following variables and assign their values **MONGO_URI** **CLOUDINARY_CLOUD_NAME** **CLOUDINARY_API_KEY** **CLOUDINARY_API_SECRET**
+- Clone this repo and run **npm install** and run **Nodemon Server**
+- In **.env** file at root level and add following variables and assign their values **DATABASE** **CLOUDINARY_CLOUD_NAME** **CLOUDINARY_API_KEY** **CLOUDINARY_API_SECRET**
+- goto **client** directory and run **npm install** and run **npm start** as well
+- ** Happy Coding **
